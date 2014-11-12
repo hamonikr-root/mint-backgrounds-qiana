@@ -1,0 +1,12 @@
+Source: mint-backgrounds-qiana
+Section: admin
+Priority: optional
+Maintainer: Clement Lefebvre <root@linuxmint.com>
+Build-Depends: debhelper (>= 5)
+Standards-Version: 3.7.2
+
+Package: mint-backgrounds-qiana
+Architecture: all
+Description: The desktop backgrounds for Linux Mint 17 Qiana
+ This package contains quality desktop backgrounds for Linux Mint 17 Qiana.
+
